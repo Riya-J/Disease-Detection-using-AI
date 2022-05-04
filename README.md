@@ -1,1 +1,1 @@
-# Disease Detection using AI
+# Disease Detection using Artificial Intelligence 
